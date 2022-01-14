@@ -7,9 +7,9 @@ Mým cílem bylo udělat zábavný/zajímavý způsob jak sledovat cenu různýc
 
 V tomto souboru najdete 2 složky se dvěmi projekty, jeden pro M5Stack ATOM a druhý pro M5Stack Core 2.
 
-> Kód pro **M5Stack ATOM** pouze vyžaduje konfiguraci údajů k wifi a náhle můžetě program zkusit.
+> Kód pro **M5Stack ATOM** pouze vyžaduje konfiguraci údajů k wifi v zdrojovém kódu a náhle můžetě program zkusit.
 
-> Kód pro **M5Stack Core 2** také vyžaduje konfiguraci wifi, ale ještě musíte nahrát složku s obrázky ikonek kryptoměn na samotný M5Stack.
+> Kód pro **M5Stack Core 2** také vyžaduje konfiguraci wifi ve zdrojovém kódu, ale ještě musíte nahrát jednotlivé obrázky ikonek kryptoměn na samotný M5Stack.
 
 ### *Hardware:*
 
