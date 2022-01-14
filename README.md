@@ -3,9 +3,9 @@
 
 ![Image|200x200](https://static-cdn.m5stack.com/resource/public/assets/m5logo.svg)
 
-V tomto souboru najdete 2 složky se dvěmi projekty, jeden pro M5Stack ATOM a druhý pro M5Stack Core 2.
-
 Mým cílem bylo udělat zábavný/zajímavý způsob jak sledovat cenu různých kryptoměn.
+
+V tomto souboru najdete 2 složky se dvěmi projekty, jeden pro M5Stack ATOM a druhý pro M5Stack Core 2.
 
 > Kód pro **M5Stack ATOM** pouze vyžaduje konfiguraci údajů k wifi a náhle můžetě program zkusit.
 
