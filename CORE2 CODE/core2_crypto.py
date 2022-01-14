@@ -132,7 +132,8 @@ def change_selected_crypto(factor):
 
   # vybereme novou kryptoměnu z listu dostupných
   new_crypto = crypto_list[factor]
-
+  
+  # změnímě příslušné ikonky, texty a barvy na novou kryptoměnu
   crypto_image_icon.set_img_src("res/" + new_crypto + ".png")
   crypto_name.set_text(crypto_name_dict[new_crypto])
   crypto_color_line.set_color(crypto_color_dict[new_crypto])
@@ -140,7 +141,7 @@ def change_selected_crypto(factor):
 
 # -------------------------------------------------------------------------
 
-# upráví barvy jednotlivých grafických prvků k příslušné krytpoměně
+# umožní upravit barvy textu, aby jsme mohli naznačit že m5stack pracuje a načítá novou cenu
 def change_color(color):
   left_arrow.set_text_color(color)
   right_arrow.set_text_color(color)
