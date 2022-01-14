@@ -35,6 +35,5 @@ Program využit na správu souborů a spouštení kódu je [UiFlow](https://shop
 
 ### *Zdroje:*
 
-- [Setup M5Stacku](https://docs.m5stack.com/en/quick_start/atom/uiflow)
 - [Knihovna requests](https://docs.python-requests.org/en/latest/) na získání odpovědi od API (ve skutečnosti micro python knihovna urequests, syntax je ale skoro identický)
 - [Knihovna JSON](https://docs.python.org/3/library/json.html) na manipulování dat od API
